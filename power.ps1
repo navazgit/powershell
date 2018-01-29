@@ -1,4 +1,4 @@
-if ($args -ne "nawazish S")
+if ($args -ne "nawazishS")
 {
 	"I don't know you. Goodbye!!!!!!"
 	exit
